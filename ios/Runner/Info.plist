@@ -26,6 +26,10 @@
 	<string>We need to take a pic</string>
 	<key>NSCameraUsageDescription</key>
 	<string>We need camera</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>WE need location</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>we location alwaysss</string>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>
